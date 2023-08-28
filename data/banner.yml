@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Todos Votamos"
+subtitle: |
+  Plataforma ciudadana diseñada para brindar a las personas mexicanas en el extranjero la mejor y más completa información necesaria para ejercer su derecho al voto en elecciones en México. 
+content : |
+
+button:
+  label : "Conoce más"
+  link : "#first"
+image : "images/trajineras.jpg"

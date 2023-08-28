@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "¿En qué consiste Todos Votamos?"
+content: |
+  "Todos Votamos" es una plataforma diseñada para brindar a las personas la mejor y más completa información necesaria para ejercer su derecho al voto. Esta plataforma sirve como una fuente confiable de información, asegurando que los usuarios estén bien equipados para participar en el proceso electoral, conocer a todos los candidatos y entender los temas relevantes. <br><br>Al ofrecer una interfaz fácil de usar y fácil acceso a recursos necesarios, Todos Votamos tiene como objetivo empoderar a las personas para que tomen decisiones informadas al emitir sus votos. Ya sea para comprender el proceso de votación, investigar los antecedentes y las políticas de los candidatos o mantenerse actualizado sobre los eventos políticos cercanos, Todos Votamos se esfuerza por ser una plataforma de referencia para las personas que buscan participar en el proceso democrático de manera responsable.
+button: 
+  label: "Learn More"
+  link: "#second"
+image: "images/trastes.jpg"
