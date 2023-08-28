@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "first"
-title : "Spotlight"
+id: "como"
+title : "Como"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Próximamente haremos disponible un formulario para que te puedas inscribir a la lista de correos, así como publicaremos enlaces a nuestras redes sociales para que nos puedas seguir y enviar información.
 button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  label: "Próximamente"
+  link: "#como"
+image: "images/recortes.jpg"

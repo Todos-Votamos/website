@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-id: second
-title : "Spotlight"
+id: "quienes"
+title : "Quiénes somos"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Somos un grupo de personas apasionadas por su paísn y que se esfuerzan por lograr su bienestar. La democracia y el respeto a la ley son valores esenciales que contribuyen a una sociedad armoniosa. Al defender estos principios,  podemos participar activamente en la configuración de un futuro mejor tanto para México como para los Estados Unidos. Nuestro compromiso con estos ideales es serio. Es importante continuar promoviendo la unidad, el entendimiento y la cooperación entre las diversas comunidades, así como los valores democráticos. Juntos, podemos tener un impacto positivo y contribuir al bienestar de ambas naciones.
 button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight02.jpg"
+  label: "¿Cómo sumarse?"
+  link: "#como"
+image: "images/mexico-mi-amor.jpg"

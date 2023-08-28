@@ -7,5 +7,5 @@ content : |
 
 button:
   label : "Conoce más"
-  link : "#first"
+  link : "#que"
 image : "images/trajineras.jpg"
